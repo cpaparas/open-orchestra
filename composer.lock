@@ -246,7 +246,7 @@
         },
         {
             "name": "doctrine/collections",
-            "version": "v1.3.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/collections.git",
@@ -2042,12 +2042,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/open-orchestra/open-orchestra-model-bundle.git",
-                "reference": "0495dde0676bee20d24877395dacd89a20de313c"
+                "reference": "83c1362ff0a1e47bd908fca95f0bae467c3b7023"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/open-orchestra/open-orchestra-model-bundle/zipball/0495dde0676bee20d24877395dacd89a20de313c",
-                "reference": "0495dde0676bee20d24877395dacd89a20de313c",
+                "url": "https://api.github.com/repos/open-orchestra/open-orchestra-model-bundle/zipball/83c1362ff0a1e47bd908fca95f0bae467c3b7023",
+                "reference": "83c1362ff0a1e47bd908fca95f0bae467c3b7023",
                 "shasum": ""
             },
             "require": {
@@ -2083,7 +2083,7 @@
                 }
             ],
             "description": "An implemantation of the model-interface for OpenOrchestra on mongo",
-            "time": "2015-05-07 08:18:58"
+            "time": "2015-05-07 13:31:44"
         },
         {
             "name": "open-orchestra/open-orchestra-model-interface",

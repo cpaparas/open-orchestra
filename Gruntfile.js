@@ -262,7 +262,8 @@ module.exports = function(grunt) {
                     'web/built/openorchestrabackoffice/js/table/tableviewLoader.js',
                     // MEDIATHEQUE
                     'web/built/openorchestramediaadmin/js/mediatheque/*.js',
-
+                    // USER
+                    'web/built/openorchestrauseradmin/js/user/*.js',
                     // INDEXATION
                     'web/bundles/openorchestraindexation/js/*.js',
 
